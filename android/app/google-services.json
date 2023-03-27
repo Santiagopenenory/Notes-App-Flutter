@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47537623190",
+    "project_id": "notes-app-course-freecodecamp",
+    "storage_bucket": "notes-app-course-freecodecamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47537623190:android:8c77f628f1588bb35e72b7",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47537623190-0lrj7dvnj67l7qj1dvajhbpo8epldfmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26dlbjUjVnE-1xKLSiiStDi7mQlkCt9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47537623190-0lrj7dvnj67l7qj1dvajhbpo8epldfmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
